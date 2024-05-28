@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @malena-bridi
-- 🎓 I hold an Associate's Degree in Programming from National Technological University (AR 🇦🇷)
+- 🎓 I hold an Associate's Degree in Programming from National Technological University (🇦🇷)
 - 👀 I’m interested in front-end web development
 - 🌱 I’m currently learning web programming with Python and JavaScript
 
